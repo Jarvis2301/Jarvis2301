@@ -31,5 +31,5 @@ Here are some ideas to get you started:
 <a href='https://ko-fi.com/catry' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
 
 ## Stats
-[![github stats](https://github-readme-stats.vercel.app/api?username=AkiaCode&count_private=true&show_icons=true&hide_border=true&bg_color=00000000&title_color=D65476&icon_color=D65476&text_color=BA5A6F)](https://github.com/AkiaCode)
-[![github stats](https://github-readme-stats.vercel.app/api/top-langs?username=AkiaCode&count_private=true&show_icons=true&hide_border=true&bg_color=00000000&title_color=D65476&icon_color=D65476&text_color=BA5A6F)](https://github.com/AkiaCode)
+[![github stats](https://github-readme-stats.vercel.app/api?username=AkiaCode&count_private=true&show_icons=true&hide_border=true&bg_color=00000000&title_color=D65476&icon_color=D65476&text_color=BA5A6F)](https://github.com/Jarvis2301)
+[![github stats](https://github-readme-stats.vercel.app/api/top-langs?username=Jarvis2301&count_private=true&show_icons=true&hide_border=true&bg_color=00000000&title_color=D65476&icon_color=D65476&text_color=BA5A6F)](https://github.com/Jarvis2301)
